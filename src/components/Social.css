@@ -1,0 +1,15 @@
+.Social_div{
+    width: 100%;
+    height: 64px;
+    background: #161619;
+    margin-top: 26px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.Social_div i{
+    font-size: 32px;
+    color: #918E9B;
+}
